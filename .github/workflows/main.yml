@@ -7,4 +7,4 @@ jobs:
     - uses: actions/checkout@master
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
-        folder-path: 'Upcoming release'
+        folder-path: 'Upcoming*'
